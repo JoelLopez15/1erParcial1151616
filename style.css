@@ -1,5 +1,5 @@
 h1{
-    color: white;
+    color: blue;
 }
 
 ul li{
@@ -8,13 +8,13 @@ ul li{
 
 aside{
     float: left;
-    width: 30%;
+    width: 50%;
     clear: both;
 }
 
 section{
     float: left;
-    width: 70%;
+    width: 100%;
 }
 
 nav ul{
@@ -27,7 +27,7 @@ nav ul li{
 
 nav ul li a{
     font-family: Arial;
-    font-size: 11px;
+    font-size: 10px;
     text-decoration: none;
     float: left;
     padding: 10px;
@@ -51,7 +51,7 @@ footer{
       }
     aside{
         float: left;
-        width: 40%;
+        width: 50%;
         clear: both;
     }
     section{
